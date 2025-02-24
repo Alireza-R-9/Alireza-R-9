@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Hi, I'm Alireza!
 
-I'm a **Computer Software student** at **Hamden University of Technology**, with a passion for building scalable, efficient, and intelligent software. My areas of expertise are:
+I'm a **Computer Software student**, with a passion for building scalable, efficient, and intelligent software. My areas of expertise are:
 
 - **Backend Development** (C#, .NET)
 - **Machine Learning** (TensorFlow, scikit-learn)
@@ -96,7 +96,6 @@ My goal is to **build software that makes a difference**—whether it’s a powe
 ### 🔗 Latest Projects
 
 - **[Machine Learning Models](https://github.com/Alireza-R-9/MyProjects/tree/main/Machine%20Learning)** - Projects related to predictive analytics and data processing.
-- **[C# Backend Development](https://github.com/Alireza-R-9/MyProjects/tree/main/C%23)** - Backend systems and APIs built with **.NET**.
 - **[Computer Vision Projects](https://github.com/Alireza-R-9/MyProjects/tree/main/Computer%20Vision)** - Image processing and object detection applications.
 
 ---
