@@ -44,9 +44,8 @@ I am constantly improving my skills and expanding my toolkit. Here are some of t
 
 I'm always open to new ideas and collaborations! Feel free to reach out to me on:
 
-- [**LinkedIn**](https://www.linkedin.com/in/alireza/) 🔗
-- [**Instagram**](https://www.instagram.com/alireza/) 📸
-- [**Twitter**](https://twitter.com/alireza) 🐦
+- [**LinkedIn**](https://www.linkedin.com/in/alireza-rostami-28351430b) 🔗
+- [**Instagram**](https://www.instagram.com/alireza_.r9/) 📸
 
 ---
 
