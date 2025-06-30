@@ -1,18 +1,39 @@
-# 👋 Welcome to My GitHub!
+# 👋 Hello, I'm Alireza Rostami!
 
-### Hi there, I'm **Alireza Rostami** — a passionate Computer Software student with a focus on intelligent systems powered by **Machine Learning**, **Computer Vision**, and **Image Processing**.
-
----
-
-## 🧠 About Me
-
-I'm on a mission to build systems that **analyze complex data**, **understand images and videos**, and **solve real-world challenges** using AI. Whether it’s developing smart applications or exploring the latest in deep learning, I love turning ideas into reality through code.
+### 🚀 Passionate Computer Software Student | Machine Learning & Computer Vision Enthusiast
 
 ---
 
-## 🚀 Technologies I Use
+## About Me
 
-Here are some of the main technologies and libraries I work with:
+I am a dedicated Computer Software student focused on designing **intelligent**, **efficient**, and **scalable** systems. My main interests lie in **Machine Learning**, **Computer Vision**, and **Image Processing**, where I strive to develop solutions that tackle complex real-world challenges with cutting-edge AI techniques.
+
+---
+
+## 🧰 Skills & Technologies
+
+- **Machine Learning & Deep Learning:** Building predictive and classification models using supervised and unsupervised learning algorithms.
+- **Computer Vision & Image Processing:** Object detection, face recognition, gesture recognition, and image enhancement.
+- **Key Libraries & Frameworks:**
+  - TensorFlow | PyTorch | Keras
+  - OpenCV | Mediapipe
+  - scikit-learn | NumPy | Pandas
+
+---
+
+## 💼 Featured Projects
+
+Here are some projects showcasing my expertise:
+
+- **Smart Hand Gesture IoT Controller:** Real-time hand gesture recognition to control music and IoT devices using Mediapipe and OpenCV.
+- **Machine Learning Models:** Various classification and regression projects using scikit-learn and deep learning.
+- **Emotion Detection:** Facial emotion recognition from video streams with CNNs.
+- **Voice Morphing:** Real-time voice conversion between male and female using audio signal processing.
+- **Pathfinding Algorithms Visualizer:** Implementation and visualization of classical search algorithms (A*, BFS, DFS) on graph data structures.
+
+---
+
+## 🌐 Technologies & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -20,38 +41,32 @@ Here are some of the main technologies and libraries I work with:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-FF4F5A?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alireza-R-9&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-R-9&layout=compact&theme=radical&hide_title=true" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-R-9&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="180" />
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🛠 Tools I Use Daily
 
-🔹 [**Machine Learning Projects**](https://github.com/Alireza-R-9/MyProjects/tree/main/Machine%20Learning) – Predictive models, supervised & unsupervised learning.  
-🔹 [**Image Processing Projects**](https://github.com/Alireza-R-9/MyProjects/tree/main/Computer%20Vision) – Image segmentation, filtering, and enhancement.  
-🔹 [**Computer Vision Projects**](https://github.com/Alireza-R-9/MyProjects/tree/main/Computer%20Vision) – Face detection, object recognition, hand gesture control.
-
----
-
-## 🧰 Tools I Use Daily
-
-- **Jupyter Notebooks** – for experiments and quick analysis  
-- **PyCharm** – for full-scale Python development  
-- **Google Colab** – for running deep learning models on GPU  
-- **Git & GitHub** – for version control and team collaboration
+- **Jupyter Notebook** – Interactive coding and experimentation.
+- **PyCharm** – Robust Python IDE for development.
+- **Google Colab** – Cloud-based GPU acceleration for deep learning.
+- **Git & GitHub** – Version control and collaborative development.
 
 ---
 
-## 🌍 Let's Connect
+## 📫 Connect With Me
 
-I'm always open to collaboration, learning, and interesting discussions.
+I'm always eager to connect, collaborate, and learn from others:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-rostami-28351430b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alireza_.r9/)
@@ -59,20 +74,16 @@ I'm always open to collaboration, learning, and interesting discussions.
 
 ---
 
-## 💡 Vision & Mission
+## 🎯 My Vision
 
-> *"To apply artificial intelligence to build smart systems that improve lives, solve real problems, and contribute to a smarter world."*
-
----
-
-## 🤝 Want to Contribute?
-
-If you find any of my projects interesting and want to contribute (bug fixes, features, documentation), feel free to:
-
-- 🌟 Star the repository
-- 🐛 Open an issue
-- 🔧 Submit a pull request
+To leverage the power of **Artificial Intelligence** and **Computer Vision** to build innovative systems that **enhance lives**, **streamline processes**, and **solve complex challenges** across industries such as healthcare, automotive, and security.
 
 ---
 
-### 🧩 Let’s build the future with code!
+## 🤝 Contributions & Collaboration
+
+I welcome contributions and collaborations of all kinds — whether it’s improving documentation, fixing bugs, or developing new features. Feel free to star repositories, open issues, or submit pull requests!
+
+---
+
+**Let's create impactful AI-powered solutions together!** 💻✨
