@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Alireza Rostami!
+# 👋 Hello, I'm Alireza Rostami
 
 ### 🚀 Passionate Computer Software Student | Machine Learning & Computer Vision Enthusiast
 
